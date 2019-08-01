@@ -7,10 +7,10 @@ This is basic API  using nodejs and mongodb for fetching data, storing data, upd
 Run `npm init` or `npm i` to install npm and dependency of angular.
 
 Firstly, you have to install the express framework globally to create web application using Node terminal.
-Run 'npm install express -g'
+Run `npm install express -g`
 
 If you are using Mongodb then run it.
-Run 'npm install mongoose'
+Run `npm install mongoose`
 
 Its dependency for posting data in body.
-Run 'npm install body-parser'
+Run `npm install body-parser`
